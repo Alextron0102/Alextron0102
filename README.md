@@ -1,9 +1,8 @@
-<a href="https://github.com/Alextron0102/Alextron0102/blob/main/README_en.md"><h3>English 👈</h3></a>
-<a href="https://github.com/Alextron0102/Alextron0102/blob/main/README_zh.md"><h3>汉语 👈</h3></a>
-<h1>¡Hola mundo! 👋</h1>
-<br>
+### [English 👈](https://github.com/Alextron0102/Alextron0102/blob/main/README_en.md)
+### [汉语 👈](https://github.com/Alextron0102/Alextron0102/blob/main/README_zh.md)
+# ¡Hola mundo! 👋
 Soy Alexis Enrique Barrios Pérez, estudiante de ingeniería de software, actualmente en 7mo ciclo de la UPC.
-<h3>👉README en desarrollo!👈</h3>
+### 👉README en desarrollo!👈
 
 
 <!--
