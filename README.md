@@ -1,7 +1,7 @@
 ### [English 👈](https://github.com/Alextron0102/Alextron0102/blob/main/README_en.md)
 ### [汉语 👈](https://github.com/Alextron0102/Alextron0102/blob/main/README_zh.md)
 # ¡Hola mundo! 👋
-Soy Alexis Enrique Barrios Pérez, estudiante de ingeniería de software, actualmente en 7mo ciclo de la UPC.
+Soy Alexis Enrique Barrios Pérez, estudiante de ingeniería de software, actualmente en 8vo ciclo de la UPC.
 ### 👉README en desarrollo!👈
 
 
